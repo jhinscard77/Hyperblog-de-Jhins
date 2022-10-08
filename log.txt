@@ -1,0 +1,29 @@
+[33mcommit b8a5f9323b0332ed29e12cd93a87f7d2f3fadc6e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ubuntu Lenovo <lenovo_x250@hotmail.com>
+Date:   Sat Oct 8 09:05:24 2022 -0500
+
+    adicioné un punto al final para llamar al aditor de texto predeterminado para el mensaje del commit
+
+[33mcommit 0f1728484206737935257c48c59a8a8d6b551090[m
+Author: Ubuntu Lenovo <lenovo_x250@hotmail.com>
+Date:   Fri Oct 7 14:07:46 2022 -0500
+
+    Agregué su estado emocional actual
+
+[33mcommit 6b754805578cc0c2f280723e9ff810d4d00de6d3[m
+Author: Ubuntu Lenovo <lenovo_x250@hotmail.com>
+Date:   Fri Oct 7 13:03:05 2022 -0500
+
+    Agregué un cambio a su personalidad
+
+[33mcommit 9d3c629f48e06961e63f6ef2794b6b3c05926864[m
+Author: Ubuntu Lenovo <lenovo_x250@hotmail.com>
+Date:   Fri Oct 7 12:08:08 2022 -0500
+
+    Cambios en la edad, se corrigió por la correcta
+
+[33mcommit f231854bf36c8f5a57d24326d143b5d69e9739f0[m
+Author: Ubuntu Lenovo <lenovo_x250@hotmail.com>
+Date:   Fri Oct 7 12:02:29 2022 -0500
+
+    Este es el primer commit desde Ubuntu con X250
